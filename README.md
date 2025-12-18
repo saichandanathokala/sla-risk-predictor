@@ -26,7 +26,7 @@ The results are visualized through an interactive Streamlit dashboard.
 pip install -r requirements.txt
 streamlit run app.py
 
-##Use case:
+## Use Case
 
 Operations teams managing high-volume workflows often struggle to anticipate
 SLA breaches due to fluctuating case arrivals and limited resource visibility.
