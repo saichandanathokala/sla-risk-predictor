@@ -25,3 +25,11 @@ The results are visualized through an interactive Streamlit dashboard.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+Use case:
+
+Then run:
+
+```bash
+git add README.md
+git commit -m "Add README documentation"
+git push
