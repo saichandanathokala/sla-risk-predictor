@@ -21,11 +21,6 @@ The results are visualized through an interactive Streamlit dashboard.
 - Streamlit
 - Matplotlib
 
-## Running the Application
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-
 ## Use Case
 
 Operations teams managing high-volume workflows often struggle to anticipate
@@ -40,3 +35,8 @@ the impact of adding or reallocating agents in real time.
 
 This enables faster, data-driven decisions that reduce backlog growth,
 improve SLA compliance, and minimize reactive firefighting in daily operations.
+
+## Running the Application
+```bash
+pip install -r requirements.txt
+streamlit run app.py
