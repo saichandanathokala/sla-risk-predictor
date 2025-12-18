@@ -27,9 +27,15 @@ pip install -r requirements.txt
 streamlit run app.py
 Use case:
 
-Then run:
+Operations teams managing high-volume workflows often struggle to anticipate
+SLA breaches due to fluctuating case arrivals and limited resource visibility.
+This system helps operations managers proactively monitor workload pressure
+and identify potential SLA risks before violations occur.
 
-```bash
-git add README.md
-git commit -m "Add README documentation"
-git push
+By analyzing current work-in-progress, incoming case rates, and available
+agent capacity, the application forecasts backlog trends and classifies SLA
+risk levels. Managers can use the built-in “what-if” simulation to evaluate
+the impact of adding or reallocating agents in real time.
+
+This enables faster, data-driven decisions that reduce backlog growth,
+improve SLA compliance, and minimize reactive firefighting in daily operations.
